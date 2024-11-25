@@ -1,5 +1,11 @@
 ### Project Description: Predicting SME Business Sustainability
 
+#### Team Members
+1. Joshua Ehinmoro
+2. Godwin Okorie
+3. Faith Isobo
+
+
 #### Overview:
 This project aims to develop a predictive model to determine whether small and medium-sized enterprises (SMEs) will remain **active** or **fail**, leveraging historical and operational data about the business. By analyzing various financial, operational, and organizational factors, the project not only provides predictions but also offers actionable recommendations to improve the sustainability of businesses flagged as likely to fail.
 
